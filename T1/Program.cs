@@ -17,7 +17,7 @@ namespace T1
             Person person1 = new Person { Firstname = "Jussi", Lastname = "Jurkka", SocialSevurityNumber = "010101-016E" };
             Person person2 = new Person { Firstname = "Minna", Lastname = "Husso", SocialSevurityNumber = "020202-012R" };
             Person person3 = new Person { Firstname = "Ankka", Lastname = "Sorsa", SocialSevurityNumber = "030303-013T" };
-            Person person7 = new Person { Firstname = "Ankka", Lastname = "Sorsa", SocialSevurityNumber = "030303-013T" };
+            Person person7 = new Person { Firstname = "Jaakko", Lastname = "Kalle", SocialSevurityNumber = "030306-013T" };
 
             // add persons to collection
             myFriens.AddPerson(person1);
